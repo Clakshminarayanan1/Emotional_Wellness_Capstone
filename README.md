@@ -1,2 +1,2 @@
-# Emotional_Wellness_Capstone
-This Repo is Regarding building an AI chat bot for emotional wellbeing 
+Capstone Project P05-01:AI COMPANION FOR EMOTIONAL WELLNESS ​& SELF-REFLECTION
+  A safety-aware, non-clinical AI companion for reflective emotional support with controlled safety escalation and privacy-aware session management.
